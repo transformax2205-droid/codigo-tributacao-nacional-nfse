@@ -34,6 +34,8 @@ Para **afiliado** de marketplace, o código costuma ser **17.06.01** (propaganda
 - [Código de tributação nacional (cTribNac): lista e busca](https://notafiscalafiliados.com.br/guia/codigo-tributacao-nacional-nfse-lista)
 - [Glossário da NFS-e Nacional (DPS, DANFSe, cTribNac, ISS)](https://notafiscalafiliados.com.br/guia/glossario-nfse-nacional)
 - [Código de serviço da NFS-e para afiliado](https://notafiscalafiliados.com.br/guia/codigo-de-servico-nfs-e-afiliado)
+- [Qual a melhor forma de emitir nota de afiliado (comparativo)](https://notafiscalafiliados.com.br/guia/nota-fiscal-afiliado-melhor-forma-emitir)
+- [Nota fiscal de afiliado em Mercado Livre, Amazon e Magalu](https://notafiscalafiliados.com.br/guia/nota-fiscal-afiliado-marketplaces)
 - [Emissor Nacional NFS-e: como emitir passo a passo](https://notafiscalafiliados.com.br/guia/emissor-nacional-nfse-como-emitir)
 - Índice de guias: https://notafiscalafiliados.com.br/guias · Versão para IA: https://notafiscalafiliados.com.br/llms-full.txt
 
